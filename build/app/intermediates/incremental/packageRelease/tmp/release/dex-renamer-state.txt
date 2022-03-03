@@ -1,0 +1,4 @@
+#Thu Mar 03 19:37:39 IST 2022
+base.0=/Users/multicoredevmac/StudioProjects/untitled/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
